@@ -1,0 +1,44 @@
+.nav-bar{
+	background-color: #a94442;
+	border-radius: 0px;
+	border:none;
+	margin-bottom: 0px;
+}
+.nav-bar .navbar-nav > li > a{
+	color: white;
+}
+ 
+ .nav-bar .navb{
+ 	color: white;
+ }
+
+.about-pizza{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.pizza-types{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.footer{
+	background-color:#a94442;
+	padding-top: 1.5rem 0;
+	color: white;
+}
+
+.gold{
+	height: 70vh;
+	width: 100%;
+}
+
+.tom{
+	height: 70vh;
+	width: 100%;
+	margin-top: 30px;
+}
+.thumbnail>img{
+	height: 45vh;
+	width: 260px;
+}
